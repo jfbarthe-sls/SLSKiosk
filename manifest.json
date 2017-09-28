@@ -1,11 +1,11 @@
 {
-  "name": "Kiosk",
-  "description": "Launch any URL as a full-screen kiosk.",
+  "name": "Stanford Law School Kiosk",
+  "short_name": "SLS Kiosk",
+  "description": "Kiosk app for Stanford Law School's kiosks in lobby areas.",
   "manifest_version": 2,
-  "version": "5.14.0",
+  "version": "0.2.7.5",
   "author": {
-    "name": "Matt Cook",
-    "email": "matt@lookitscook.com"
+    "name": "Stanford Law IT",
   },
   "kiosk_enabled": true,
   "offline_enabled": true,
