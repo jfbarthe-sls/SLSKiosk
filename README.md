@@ -4,10 +4,6 @@
 
 Kiosk packaged application for Stanford Law School's kiosks in lobby areas. Allows any URL to be loaded as a fullscreen kiosk in Google Chrome or Chrome OS, also disables device sleep mode while app is running. Forked from <a href="/matt-cook/kiosk">matt-cook/kiosk</a>.
 
-## Release Notifications
-
-Interested in being notified prior to a new release of the Kiosk app? We will be publishing notification email one week prior to any new releases to allow time for final testing and debugging. You can [sign up here](http://eepurl.com/cIylnv).
-
 ## Features
 
 ### System
