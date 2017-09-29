@@ -1,8 +1,8 @@
-<a target="_blank" href="https://chrome.google.com/webstore/detail/kiosk/afhcomalholahplbjhnmahkoekoijban">![Try it now in CWS](https://raw.github.com/GoogleChrome/chrome-app-samples/master/tryitnowbutton.png "Click here to install this application from the Chrome Web Store")</a>
+<a target="_blank" href="https://chrome.google.com/webstore/detail/stanford-law-school-kiosk/efhhjipgigohkcnjmmaajgfjpcdknnfd">![Try it now in CWS](https://raw.github.com/GoogleChrome/chrome-app-samples/master/tryitnowbutton.png "Click here to install this application from the Chrome Web Store")</a>
 
-# Chrome Kiosk
+# SLSKiosk
 
-Basic kiosk packaged application. Allows any URL to be loaded as a fullscreen kiosk in Google Chrome or Chrome OS, also disables device sleep mode while app is running.
+Kiosk packaged application for Stanford Law School's kiosks in lobby areas. Allows any URL to be loaded as a fullscreen kiosk in Google Chrome or Chrome OS, also disables device sleep mode while app is running. Forked from <a href="/matt-cook/kiosk">matt-cook/kiosk</a>.
 
 ## Release Notifications
 
