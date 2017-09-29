@@ -2,7 +2,7 @@
 
 # SLSKiosk
 
-Kiosk packaged application for Stanford Law School's kiosks in lobby areas. Allows any URL to be loaded as a fullscreen kiosk in Google Chrome or Chrome OS, also disables device sleep mode while app is running. Forked from <a href="/matt-cook/kiosk">matt-cook/kiosk</a>.
+SLSKiosk is a packaged application for Stanford Law School's kiosks in lobby areas. Allows any URL to be loaded as a fullscreen kiosk in Google Chrome or Chrome OS, also disables device sleep mode while app is running. Forked from <a href="/matt-cook/kiosk">matt-cook/kiosk</a>.
 
 ## Features
 
