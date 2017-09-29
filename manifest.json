@@ -5,7 +5,7 @@
   "manifest_version": 2,
   "version": "0.2.7.5",
   "author": {
-    "name": "Stanford Law IT",
+    "name": "Stanford Law IT"
   },
   "kiosk_enabled": true,
   "offline_enabled": true,
